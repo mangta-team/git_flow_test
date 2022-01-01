@@ -1,4 +1,4 @@
-public class Test {
+public class Temp {
     private int id;
     private String value;
 
@@ -8,9 +8,8 @@ public class Test {
     }
 
     private void init() {
-        this.id = 1;
-        System.out.println("끼워넣기");
-        this.value = "hello";
+        this.id = 3;
+        this.value = "끼워넣기";
         System.out.println(id);
     }
 }
